@@ -11,7 +11,7 @@ This RAG-based system processes uploaded PDFs by extracting and chunking text, t
 
 # Setup
 Clone the repository
-git clone https://github.com/jharajni/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+git clone https://github.com/jharajni/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask.git
 
 
 # STEP 01- Create a conda environment after opening the repository
